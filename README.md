@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align='center'>
+  <a href="https://ananyalohani.me">
+    <img src="ichii.png" alt="ichii" height="100"/>
+  </a>
+</p>
 
-<!--
-**ananyalohani/ananyalohani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello!✌🏽
 
-Here are some ideas to get you started:
+I'm Ananya Lohani(she/her), an undergrad student majoring in CSE at [IIIT Delhi](https://iiitd.ac.in).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My recent interests are UI/UX design and web development. I'm frequently learning new technologies to improve my skills!
+
+I'm currently working as a Web Design and Development intern at the [CSE Department](https://cse.iiitd.ac.in) of IIIT Delhi.
+
+To know more about me and my work, check out my website: [ananyalohani.me](https://ananyalohani.me).
+
+Follow me on social media: [Instagram](https://www.instagram.com/ananyalohani_), [Twitter](https://twitter.com/ananyalohani_/), [LinkedIn](https://linkedin.com/in/ananyalohani/).
+
+You can also reach me via email: [mail@ananyalohani.me](mailto:mail@ananyalohani.me).
