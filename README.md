@@ -16,4 +16,4 @@ To know more about me and my work, check out my website: [ananyalohani.me](https
 
 Follow me on social media: [Instagram](https://www.instagram.com/ananyalohani_), [Twitter](https://twitter.com/ananyalohani_/), [LinkedIn](https://linkedin.com/in/ananyalohani/).
 
-You can also reach me via email: [mail@ananyalohani.me](mailto:mail@ananyalohani.me).
+You can also reach me via email: [contact@ananya.li](mailto:contact@ananya.li).
