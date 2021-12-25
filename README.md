@@ -8,7 +8,7 @@
 
 I'm Ananya Lohani(she/her), an undergrad student majoring in CSE at [IIIT Delhi](https://iiitd.ac.in).
 
-My recent interests are UI/UX design and web development. I'm frequently learning new technologies to improve my skills!
+My recent interests are cryptography, cybersecurity and blockchain development. I'm frequently learning new technologies to improve my skills!
 
 To know more about me and my work, check out my website: [lohani.dev](https://lohani.dev).
 
