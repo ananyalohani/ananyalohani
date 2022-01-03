@@ -1,9 +1,3 @@
-<p align='center'>
-  <a href="https://ananyalohani.me">
-    <img src="ichii.png" alt="ichii" height="100"/>
-  </a>
-</p>
-
 ## Hello!✌🏽
 
 I'm Ananya Lohani(she/her), an undergrad student majoring in CSE at [IIIT Delhi](https://iiitd.ac.in).
