@@ -1,6 +1,6 @@
 ## Hello!✌🏽
 
-I'm Ananya Lohani(she/her), a Software Engineer at [Argonaut](https://argonaut.dev).
+I'm Ananya Lohani(she/her).
 
 To know more about me and my work, check out my website: [lohani.dev](https://lohani.dev).
 
